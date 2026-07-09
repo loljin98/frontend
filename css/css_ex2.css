@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+/* 태그 선택자
+   
+   블럭요소 - 한줄을 몽땅 차지하는 요소
+   인라인요소 - 컨텐츠가 가지고 있는 영역만큼만 차지하는 요소
+*/
+/*
+div{
+    border: 1px solid ;
+=======
+/* 태그 선택자 
+
+블럭 요소 - 한줄을 몽땅 차지 하는 요소
+인라인 요소 - 컨텐츠가 가지고 있는 영영만큼만 차지하는 요소
+*/
+/*
+div{
+    border: 1px solid;
+>>>>>>> 2ce04da9b30d11953d7d65aed308572c16029a2a
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+*/
+.title{
+<<<<<<< HEAD
+    background-color: rgb(133, 133, 214);
+    color: #fff;
+    display: inline;
+    width: 200px;
+=======
+    background-color: rgb(32, 32, 146);
+    color: #fff;
+    display: inline;
+    
+>>>>>>> 2ce04da9b30d11953d7d65aed308572c16029a2a
+}
+
+.accent{
+    color: red;
+    font-weight: 700;
+<<<<<<< HEAD
+}
+
+=======
+}
+>>>>>>> 2ce04da9b30d11953d7d65aed308572c16029a2a

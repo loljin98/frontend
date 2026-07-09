@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "../frontend"
+		},
+		{
+			"name": "css",
+			"path": "../fe/frontend/css"
+		},
+		{
+			"name": "html",
+			"path": "../fe/frontend/html"
+		}
+	],
+	"settings": {}
+}
